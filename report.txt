@@ -1,0 +1,2 @@
+18/10/2008 test case 1
+ income 16.59
