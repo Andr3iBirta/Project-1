@@ -1,7 +1,7 @@
 #include <string.h>
 #include <math.h>
 #include "structures.h"
-#include "business.c"
+#include "ui.c"
 
 void test_transaction_validation() {
     printf("Testing 'transaction_validation':\n");
