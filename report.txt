@@ -1,1 +1,8 @@
-
+1/1/2023 bursa de merit
+ income 749.99
+5/1/2023 bursa de performanta
+ income 1499.99
+10/1/2023 telefon nou
+ expense 1235.65
+25/1/2023 KFC
+ expense 49.99
